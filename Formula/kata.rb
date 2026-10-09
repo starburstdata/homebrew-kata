@@ -2,6 +2,7 @@ class Kata < Formula
   desc "Code review for jj (jujutsu) workflows with web, HTTP, and MCP surfaces"
   homepage "https://github.com/martint/kata"
   url "https://github.com/martint/kata.git", branch: "main"
+  version "main"
   license "Apache-2.0"
   head "https://github.com/martint/kata.git", branch: "main"
 
